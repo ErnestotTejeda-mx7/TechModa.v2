@@ -1,0 +1,24 @@
+{
+    "reply": "\u00a1Hola! \ud83d\ude0a\n\nLamentablemente, en nuestro cat\u00e1logo actual **no tenemos relojes disponibles**. Nuestra colecci\u00f3n se enfoca en prendas de vestir y calzado.\n\nSi te interesa complementar un look elegante, te puedo recomendar:\n- **Chaqueta de mezclilla oversize** ($89) - perfecta para un estilo casual-chic\n- **Tenis blancos minimalistas** ($74.5) - ideales para un outfit moderno y refinado\n\n\u00bfHay algo de estas categor\u00edas que te interese? O si prefieres, puedo ayudarte a buscar otro tipo de prendas. \ud83d\udc55\ud83d\udc60",
+    "retrieved": [
+        {
+            "productId": "6eeed007-5838-4eae-9c62-6326051b5e23",
+            "name": "Chaqueta de mezclilla oversize"
+        },
+        {
+            "productId": "2f5d999d-375e-44cf-9eaa-654d19f3f76f",
+            "name": "Tenis blancos minimalistas"
+        },
+        {
+            "productId": "465de0a5-6102-4624-b785-c7d7e6bd3370",
+            "name": "Vestido midi floral"
+        }
+    ],
+    "model": "us.anthropic.claude-haiku-4-5-20251001-v1:0",
+    "usage": {
+        "inputTokens": 266,
+        "outputTokens": 175,
+        "totalTokens": 441,
+        "cacheReadInputTokens": 0
+    }
+}

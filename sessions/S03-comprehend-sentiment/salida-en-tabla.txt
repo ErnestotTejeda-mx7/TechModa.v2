@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------------------------------
+|                                                Scan                                                 |
++--------+----------------------------------+------------+----------------+-----------------+---------+
+| Precio |            Producto              | S1_Labels  | S2_Moderacion  | S3_Sentimiento  |  Stock  |
++--------+----------------------------------+------------+----------------+-----------------+---------+
+|  89    |  Chaqueta de mezclilla oversize  |  Clothing  |  APPROVED      |  POSITIVE       |  8      |
+|  39.99 |  Bolso tote de lona              |  Bag       |  APPROVED      |  NEGATIVE       |  15     |
+|  59.9  |  Vestido midi floral             |  Clothing  |  APPROVED      |  POSITIVE       |  12     |
+|  74.5  |  Tenis blancos minimalistas      |  Clothing  |  APPROVED      |  POSITIVE       |  25     |
++--------+----------------------------------+------------+----------------+-----------------+---------+

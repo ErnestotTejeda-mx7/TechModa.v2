@@ -1,0 +1,461 @@
+{
+    "Items": [
+        {
+            "moderationStatus": {
+                "S": "APPROVED"
+            },
+            "altText": {
+                "S": "Imagen de producto que muestra: Clothing, Vest, Pants, Coat, Jacket."
+            },
+            "createdAt": {
+                "S": "2026-08-28T20:53:03.307Z"
+            },
+            "stock": {
+                "N": "8"
+            },
+            "moderationFlags": {
+                "L": []
+            },
+            "name": {
+                "S": "Chaqueta de mezclilla oversize"
+            },
+            "aiLabels": {
+                "L": [
+                    {
+                        "S": "Clothing"
+                    },
+                    {
+                        "S": "Vest"
+                    },
+                    {
+                        "S": "Pants"
+                    },
+                    {
+                        "S": "Coat"
+                    },
+                    {
+                        "S": "Jacket"
+                    },
+                    {
+                        "S": "Jeans"
+                    }
+                ]
+            },
+            "imageUrl": {
+                "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/Chaqueta.jpg"
+            },
+            "reviewSentimentCounts": {
+                "M": {
+                    "POSITIVE": {
+                        "N": "1"
+                    },
+                    "MIXED": {
+                        "N": "1"
+                    }
+                }
+            },
+            "updatedAt": {
+                "S": "2026-08-28T20:53:03.307Z"
+            },
+            "category": {
+                "S": "Chaquetas"
+            },
+            "description": {
+                "S": "Chaqueta denim oversize, lavado claro, bolsillos frontales."
+            },
+            "price": {
+                "N": "89"
+            },
+            "productId": {
+                "S": "6eeed007-5838-4eae-9c62-6326051b5e23"
+            },
+            "reviewSentiment": {
+                "S": "POSITIVE"
+            },
+            "aiLabelsRaw": {
+                "L": [
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Clothing"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "confidence": {
+                                "N": "100"
+                            },
+                            "name": {
+                                "S": "Vest"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Pants"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Coat"
+                            },
+                            "confidence": {
+                                "N": "99.85"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "confidence": {
+                                "N": "99.85"
+                            },
+                            "name": {
+                                "S": "Jacket"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Jeans"
+                            },
+                            "confidence": {
+                                "N": "99.62"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "moderationStatus": {
+                "S": "APPROVED"
+            },
+            "altText": {
+                "S": "Imagen de producto que muestra: Bag, Accessories, Handbag, Tote Bag, Canvas."
+            },
+            "createdAt": {
+                "S": "2026-08-28T20:53:03.390Z"
+            },
+            "stock": {
+                "N": "15"
+            },
+            "moderationFlags": {
+                "L": []
+            },
+            "name": {
+                "S": "Bolso tote de lona"
+            },
+            "aiLabels": {
+                "L": [
+                    {
+                        "S": "Bag"
+                    },
+                    {
+                        "S": "Accessories"
+                    },
+                    {
+                        "S": "Handbag"
+                    },
+                    {
+                        "S": "Tote Bag"
+                    },
+                    {
+                        "S": "Canvas"
+                    }
+                ]
+            },
+            "imageUrl": {
+                "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/Bolso.jpg"
+            },
+            "reviewSentimentCounts": {
+                "M": {
+                    "POSITIVE": {
+                        "N": "1"
+                    },
+                    "NEGATIVE": {
+                        "N": "1"
+                    }
+                }
+            },
+            "updatedAt": {
+                "S": "2026-08-28T20:53:03.390Z"
+            },
+            "category": {
+                "S": "Accesorios"
+            },
+            "description": {
+                "S": "Bolso tote de lona resistente, asas largas, color arena."
+            },
+            "price": {
+                "N": "39.99"
+            },
+            "productId": {
+                "S": "80bdf776-1491-4106-b256-b4d3e843aa88"
+            },
+            "reviewSentiment": {
+                "S": "NEGATIVE"
+            },
+            "aiLabelsRaw": {
+                "L": [
+                    {
+                        "M": {
+                            "confidence": {
+                                "N": "99.97"
+                            },
+                            "name": {
+                                "S": "Bag"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Accessories"
+                            },
+                            "confidence": {
+                                "N": "99.64"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "confidence": {
+                                "N": "99.64"
+                            },
+                            "name": {
+                                "S": "Handbag"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Tote Bag"
+                            },
+                            "confidence": {
+                                "N": "99.35"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Canvas"
+                            },
+                            "confidence": {
+                                "N": "88.4"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "moderationStatus": {
+                "S": "APPROVED"
+            },
+            "altText": {
+                "S": "Imagen de producto que muestra: Clothing, T-Shirt."
+            },
+            "createdAt": {
+                "S": "2026-08-28T20:53:03.169Z"
+            },
+            "stock": {
+                "N": "12"
+            },
+            "moderationFlags": {
+                "L": []
+            },
+            "name": {
+                "S": "Vestido midi floral"
+            },
+            "aiLabels": {
+                "L": [
+                    {
+                        "S": "Clothing"
+                    },
+                    {
+                        "S": "T-Shirt"
+                    }
+                ]
+            },
+            "imageUrl": {
+                "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/vestido-ACDC.jpg"
+            },
+            "reviewSentimentCounts": {
+                "M": {
+                    "MIXED": {
+                        "N": "1"
+                    },
+                    "POSITIVE": {
+                        "N": "1"
+                    }
+                }
+            },
+            "updatedAt": {
+                "S": "2026-08-28T20:53:03.169Z"
+            },
+            "category": {
+                "S": "Vestidos"
+            },
+            "description": {
+                "S": "Vestido midi de gasa con estampado floral, manga corta."
+            },
+            "price": {
+                "N": "59.9"
+            },
+            "productId": {
+                "S": "465de0a5-6102-4624-b785-c7d7e6bd3370"
+            },
+            "reviewSentiment": {
+                "S": "POSITIVE"
+            },
+            "aiLabelsRaw": {
+                "L": [
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Clothing"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "T-Shirt"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "moderationStatus": {
+                "S": "APPROVED"
+            },
+            "altText": {
+                "S": "Imagen de producto que muestra: Clothing, Footwear, Shoe, Sneaker."
+            },
+            "createdAt": {
+                "S": "2026-08-28T20:53:03.353Z"
+            },
+            "stock": {
+                "N": "25"
+            },
+            "moderationFlags": {
+                "L": []
+            },
+            "name": {
+                "S": "Tenis blancos minimalistas"
+            },
+            "aiLabels": {
+                "L": [
+                    {
+                        "S": "Clothing"
+                    },
+                    {
+                        "S": "Footwear"
+                    },
+                    {
+                        "S": "Shoe"
+                    },
+                    {
+                        "S": "Sneaker"
+                    }
+                ]
+            },
+            "imageUrl": {
+                "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/Tenis-blancos.jpg"
+            },
+            "reviewSentimentCounts": {
+                "M": {
+                    "POSITIVE": {
+                        "N": "1"
+                    }
+                }
+            },
+            "updatedAt": {
+                "S": "2026-08-28T20:53:03.353Z"
+            },
+            "category": {
+                "S": "Calzado"
+            },
+            "description": {
+                "S": "Sneakers de cuero sintético blanco, suela de goma."
+            },
+            "price": {
+                "N": "74.5"
+            },
+            "productId": {
+                "S": "2f5d999d-375e-44cf-9eaa-654d19f3f76f"
+            },
+            "reviewSentiment": {
+                "S": "POSITIVE"
+            },
+            "aiLabelsRaw": {
+                "L": [
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Clothing"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Footwear"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Shoe"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Sneaker"
+                            },
+                            "confidence": {
+                                "N": "100"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "Count": 4,
+    "ScannedCount": 4,
+    "ConsumedCapacity": null
+}

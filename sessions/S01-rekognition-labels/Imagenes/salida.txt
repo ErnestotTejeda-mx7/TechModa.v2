@@ -1,0 +1,238 @@
+[
+    {
+        "aiLabels": {
+            "L": [
+                {
+                    "S": "Clothing"
+                },
+                {
+                    "S": "Vest"
+                },
+                {
+                    "S": "Pants"
+                },
+                {
+                    "S": "Coat"
+                },
+                {
+                    "S": "Jacket"
+                },
+                {
+                    "S": "Jeans"
+                }
+            ]
+        },
+        "imageUrl": {
+            "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/Chaqueta.jpg"
+        },
+        "updatedAt": {
+            "S": "2026-08-28T20:53:03.307Z"
+        },
+        "category": {
+            "S": "Chaquetas"
+        },
+        "createdAt": {
+            "S": "2026-08-28T20:53:03.307Z"
+        },
+        "stock": {
+            "N": "8"
+        },
+        "description": {
+            "S": "Chaqueta denim oversize, lavado claro, bolsillos frontales."
+        },
+        "price": {
+            "N": "89"
+        },
+        "name": {
+            "S": "Chaqueta de mezclilla oversize"
+        },
+        "productId": {
+            "S": "6eeed007-5838-4eae-9c62-6326051b5e23"
+        },
+        "aiLabelsRaw": {
+            "L": [
+                {
+                    "M": {
+                        "name": {
+                            "S": "Clothing"
+                        },
+                        "confidence": {
+                            "N": "100"
+                        }
+                    }
+                },
+                {
+                    "M": {
+                        "confidence": {
+                            "N": "100"
+                        },
+                        "name": {
+                            "S": "Vest"
+                        }
+                    }
+                },
+                {
+                    "M": {
+                        "name": {
+                            "S": "Pants"
+                        },
+                        "confidence": {
+                            "N": "100"
+                        }
+                    }
+                },
+                {
+                    "M": {
+                        "confidence": {
+                            "N": "99.85"
+                        },
+                        "name": {
+                            "S": "Coat"
+                        }
+                    }
+                },
+                {
+                    "M": {
+                        "name": {
+                            "S": "Jacket"
+                        },
+                        "confidence": {
+                            "N": "99.85"
+                        }
+                    }
+                },
+                {
+                    "M": {
+                        "confidence": {
+                            "N": "99.62"
+                        },
+                        "name": {
+                            "S": "Jeans"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "imageUrl": {
+            "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/Bolso.jpg"
+        },
+        "updatedAt": {
+            "S": "2026-08-28T20:53:03.390Z"
+        },
+        "category": {
+            "S": "Accesorios"
+        },
+        "createdAt": {
+            "S": "2026-08-28T20:53:03.390Z"
+        },
+        "stock": {
+            "N": "15"
+        },
+        "description": {
+            "S": "Bolso tote de lona resistente, asas largas, color arena."
+        },
+        "price": {
+            "N": "39.99"
+        },
+        "name": {
+            "S": "Bolso tote de lona"
+        },
+        "productId": {
+            "S": "80bdf776-1491-4106-b256-b4d3e843aa88"
+        }
+    },
+    {
+        "aiLabels": {
+            "L": [
+                {
+                    "S": "Clothing"
+                },
+                {
+                    "S": "T-Shirt"
+                }
+            ]
+        },
+        "imageUrl": {
+            "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/vestido-ACDC.jpg"
+        },
+        "updatedAt": {
+            "S": "2026-08-28T20:53:03.169Z"
+        },
+        "category": {
+            "S": "Vestidos"
+        },
+        "createdAt": {
+            "S": "2026-08-28T20:53:03.169Z"
+        },
+        "stock": {
+            "N": "12"
+        },
+        "description": {
+            "S": "Vestido midi de gasa con estampado floral, manga corta."
+        },
+        "price": {
+            "N": "59.9"
+        },
+        "name": {
+            "S": "Vestido midi floral"
+        },
+        "productId": {
+            "S": "465de0a5-6102-4624-b785-c7d7e6bd3370"
+        },
+        "aiLabelsRaw": {
+            "L": [
+                {
+                    "M": {
+                        "name": {
+                            "S": "Clothing"
+                        },
+                        "confidence": {
+                            "N": "100"
+                        }
+                    }
+                },
+                {
+                    "M": {
+                        "name": {
+                            "S": "T-Shirt"
+                        },
+                        "confidence": {
+                            "N": "100"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "imageUrl": {
+            "S": "https://techmoda-ai-luis-ernesto-tejeda-gomez-frontend.s3.us-east-1.amazonaws.com/assets/Tenis-blancos.jpg"
+        },
+        "updatedAt": {
+            "S": "2026-08-28T20:53:03.353Z"
+        },
+        "category": {
+            "S": "Calzado"
+        },
+        "createdAt": {
+            "S": "2026-08-28T20:53:03.353Z"
+        },
+        "stock": {
+            "N": "25"
+        },
+        "description": {
+            "S": "Sneakers de cuero sintético blanco, suela de goma."
+        },
+        "price": {
+            "N": "74.5"
+        },
+        "name": {
+            "S": "Tenis blancos minimalistas"
+        },
+        "productId": {
+            "S": "2f5d999d-375e-44cf-9eaa-654d19f3f76f"
+        }
+    }
+]
